@@ -56,22 +56,12 @@ public class HealthAdminApp {
             scanner.nextLine(); // Consume newline
 
             switch (choice) {
-            case 1:
-                addPatient(scanner);
-                break;
-            case 2:
-                viewPatients();
-                break;
-            case 3:
-                searchPatient(scanner);
-                break;
-            case 4:
-                System.out.println("Exiting the system. Goodbye!");
-                break;
-            default:
-                System.out.println("Invalid choice. Please try again.");
-        }
-
+                case 1 -> addPatient(scanner);
+                case 2 -> viewPatients();
+                case 3 -> searchPatient(scanner);
+                case 4 -> System.out.println("Exiting the system. Goodbye!");
+                default -> System.out.println("Invalid choice. Please try again.");
+            }
 
         } while (choice != 4);
 
