@@ -1,16 +1,16 @@
 # HealthAdminApp
-##Overview
+## Overview
 HealthAdminApp is a Java-based application designed to streamline healthcare administration tasks. This application aims to assist healthcare providers in managing patient information, appointments, and other administrative functions efficiently.
 
-##Features
+## Features
 Patient Management: Maintain comprehensive records of patient information.
 Appointment Scheduling: Schedule and manage patient appointments seamlessly.
 Administrative Tools: Access a suite of tools tailored for healthcare administration.
 
-##Technologies Used
+## Technologies Used
 Programming Language: Java
 
-##Getting Started
+## Getting Started
 To set up and run the HealthAdminApp locally, follow these steps:
 
 Clone the Repository:
@@ -22,13 +22,13 @@ cd HealthAdminApp
 Run the Application: Navigate to the src directory and execute the main class:
 ```bash
 cd src
-java health_admin_app.java
+java HealthAdminApp
 ```
-##Contributing
+## Contributing
 We welcome contributions to enhance the HealthAdminApp. If you're interested in contributing, please fork the repository and submit a pull request with your proposed changes.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-##Contact
+## Contact
 For questions or suggestions, please open an issue in this repository.
