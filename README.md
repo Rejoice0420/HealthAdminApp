@@ -27,8 +27,5 @@ java HealthAdminApp
 ## Contributing
 We welcome contributions to enhance the HealthAdminApp. If you're interested in contributing, please fork the repository and submit a pull request with your proposed changes.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ## Contact
 For questions or suggestions, please open an issue in this repository.
